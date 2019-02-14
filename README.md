@@ -1,3 +1,5 @@
+
+
 # Unit 16 | Assignment - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
@@ -13,6 +15,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 ## Your Task
 
 ### Level 1: D3 Dabbler
+
+Web application is deployed at the following link: https://github.com/ThaoLeatherman/HW16/blob/master/4-scatter.jpg.com/ 
 
 ![4-scatter](Images/4-scatter.jpg)
 
